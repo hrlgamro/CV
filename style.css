@@ -1,0 +1,125 @@
+
+.left-container {
+    position: fixed;
+    width: 400px;
+    height:100%;
+    background-color: blanchedalmond;
+}
+
+.poto {
+    position: absolute;
+    top: 100px;
+    text-align: center;
+}
+
+.photo{
+     width: 40%;
+     border-radius: 50%;
+}
+
+.button1 {
+    width: 50%;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 12px;
+    font-size: 1,1rem;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.button2 {
+    width: 50%;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 12px;
+    font-size: 1,1rem;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.button3 {
+    width: 50%;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 12px;
+    font-size: 1,1rem;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.button1 hover{
+    background-color: black;
+    color:white;
+    transition: 1s;
+}
+
+.button2 hover{
+    background-color: black;
+    color:white;
+    transition: 1s;
+}
+
+.button3 hover{
+    background-color: black;
+    color:white;
+    transition: 1s;
+}
+
+.right-container {
+    position: absolute;
+    left: 400px;
+}
+
+.top-bar{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.menu {
+    float: right;
+    padding: 50px;
+}
+
+#Profil {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+#About {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+#Experience {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+#Achievement {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+#Contact {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+*{
+    text-decoration: none;
+    color: black;
+}
+
+.PEMBUKA {
+    font-style: italic;
+    font-size: 1,3rem;
+}
+
+#Footer {
+    width: auto;
+    height: 100px;
+}
+
+p, li {
+    line-height: 200%;
+}
